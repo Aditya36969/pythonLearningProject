@@ -1,0 +1,7 @@
+print("hello word")
+print("hello word")
+print("hello word")
+print(-82-12)
+print(16/9)
+print(4-8)
+print(2+2)
