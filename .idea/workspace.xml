@@ -1,26 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ee668cd-c255-421f-a852-d9d93d043960" name="Changes" comment="" />
+    <list default="true" id="7ee668cd-c255-421f-a852-d9d93d043960" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/EX_020724/OOPs1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_020724/OOPs2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_020724/OOPs3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_020724/OOPs4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_020724/OOPs5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_020724/OOPs6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_020724/OOPs7_poly.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_020724/OOPs8_Poly2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EX_020724/OOPs_ABS1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Aditya36969"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Aditya36969/pythonLearningProject.git",
+    "accountId": "e9e8ca37-b22e-4f7f-b786-f888116ea1d8"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2ieqTiFGkbfwl7w9a3ojm6CWsz8" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.OOPS_IN_Poly_Abs.executor": "Run",
+    "Python.OOPs2.executor": "Run",
+    "Python.OOPs3.executor": "Run",
+    "Python.OOPs4.executor": "Run",
+    "Python.OOPs5.executor": "Run",
+    "Python.OOPs6.executor": "Run",
+    "Python.OOPs7_poly.executor": "Run",
+    "Python.OOPs_ABS1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
